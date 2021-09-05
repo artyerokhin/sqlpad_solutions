@@ -1,6 +1,8 @@
 # Main information
-This repository contains solutions for SQL tasks from sqlpad.io 
+This repository contains solutions for SQL tasks from https://www.sqlpad.io
+
 There are only solutions to tasks, but not the tasks themselves. In order to see them, go to the page above.
+
 All solutions are just for informational purposes. Please do not use it for cheating. Only if you stuck and you need advice or some help to figure it out. 
 
 # Sturcture
